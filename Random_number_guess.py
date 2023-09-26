@@ -1,4 +1,3 @@
-#comment
 #random_number_guess_game
 
 import random
