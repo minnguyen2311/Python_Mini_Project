@@ -3,6 +3,7 @@
 
 import random
 
+print("Welcome to the Random_number_guess")
 while True:
     top_of_range = input("Please type the top range number: ")
     if top_of_range.lstrip("-").isdigit():
