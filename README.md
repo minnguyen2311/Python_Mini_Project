@@ -1,4 +1,4 @@
 # Python_Mini_Project
 
-This is my First Python Project
-Second Line
+1. Text abbreviations quiz
+2. Random number guess game
