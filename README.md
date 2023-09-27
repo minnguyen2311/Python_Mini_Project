@@ -2,4 +2,5 @@
 
 1. Text abbreviations quiz
 2. Random number guess game
+3. Rock paper scissors game
 
