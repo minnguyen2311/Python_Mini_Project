@@ -1,10 +1,11 @@
-#random_number_guess_game
+
+#random_number_guess
 
 import random
 
-print("Welcome to the Random_number_guess")
 while True:
-    top_of_range = input("Please type the top range number: ")
+
+    top_of_range = input("Please type a top range number: ")
     if top_of_range.lstrip("-").isdigit():
         top_of_range=int(top_of_range)
 
@@ -39,4 +40,4 @@ while True:
     else:
         print("You were below the number")
 
-print("You got it in", guesses, "guesses" )
+print("Nice try! You got it in", guesses, "guesses" )
